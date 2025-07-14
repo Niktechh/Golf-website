@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Goyal</h1>
 <h3 align="center">exploring a vast world of frontend dev</h3>
 
-- 🌱 I’m currently learning **js , React.js**
+- 🌱 I’m currently learning **node js**
 
 - 📫 How to reach me **nikhilgoyal5252@gmail.com**
 
